@@ -37,7 +37,6 @@ setup(
     url='https://github.com/codelucas/newspaper/',
     packages=packages,
     include_package_data=True,
-    package_data={'newspaper': ['resources', 'videos']},
     install_requires=required,
     license='MIT',
     zip_safe=False,
